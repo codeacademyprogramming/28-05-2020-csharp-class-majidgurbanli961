@@ -1,0 +1,7 @@
+C:\Users\Majid\source\repos\homeworkLast\homeworkLast\bin\Debug\homeworkLast.exe.config
+C:\Users\Majid\source\repos\homeworkLast\homeworkLast\bin\Debug\homeworkLast.exe
+C:\Users\Majid\source\repos\homeworkLast\homeworkLast\bin\Debug\homeworkLast.pdb
+C:\Users\Majid\source\repos\homeworkLast\homeworkLast\obj\Debug\homeworkLast.csprojAssemblyReference.cache
+C:\Users\Majid\source\repos\homeworkLast\homeworkLast\obj\Debug\homeworkLast.csproj.CoreCompileInputs.cache
+C:\Users\Majid\source\repos\homeworkLast\homeworkLast\obj\Debug\homeworkLast.exe
+C:\Users\Majid\source\repos\homeworkLast\homeworkLast\obj\Debug\homeworkLast.pdb
