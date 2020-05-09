@@ -37,9 +37,9 @@ namespace homeworkLast
     }
     class Invoice
     {
-        private string account;
-        private string customer;
-        private string provider;
+        private readonly string account;
+        private readonly string customer;
+        private readonly string provider;
         private string article;
         private string quantity;
         public string Article { 
@@ -96,7 +96,7 @@ namespace homeworkLast
                 }
                 else
                 {
-                    return totalPrice;
+                    return totalPrice*numberQuantity;
                 }
             }
             if (article == "Sd Card")
@@ -111,7 +111,7 @@ namespace homeworkLast
                 }
                 else
                 {
-                    return totalPrice;
+                    return totalPrice * numberQuantity;
                 }
             }
             if (article == "Usb Hab")
@@ -126,7 +126,7 @@ namespace homeworkLast
                 }
                 else
                 {
-                    return totalPrice;
+                    return totalPrice * numberQuantity;
                 }
             }
             else
