@@ -1,0 +1,14 @@
+C:\Users\Majid\source\repos\homeworkLast\homeworkLast\bin\Debug\homeworkLast.exe.config
+C:\Users\Majid\source\repos\homeworkLast\homeworkLast\bin\Debug\homeworkLast.exe
+C:\Users\Majid\source\repos\homeworkLast\homeworkLast\bin\Debug\homeworkLast.pdb
+C:\Users\Majid\source\repos\homeworkLast\homeworkLast\obj\Debug\homeworkLast.csprojAssemblyReference.cache
+C:\Users\Majid\source\repos\homeworkLast\homeworkLast\obj\Debug\homeworkLast.csproj.CoreCompileInputs.cache
+C:\Users\Majid\source\repos\homeworkLast\homeworkLast\obj\Debug\homeworkLast.exe
+C:\Users\Majid\source\repos\homeworkLast\homeworkLast\obj\Debug\homeworkLast.pdb
+C:\Users\Majid\Source\Repos\28-05-2020-csharp-class-majidgurbanli9613\homeworkLast\bin\Debug\homeworkLast.exe.config
+C:\Users\Majid\Source\Repos\28-05-2020-csharp-class-majidgurbanli9613\homeworkLast\bin\Debug\homeworkLast.exe
+C:\Users\Majid\Source\Repos\28-05-2020-csharp-class-majidgurbanli9613\homeworkLast\bin\Debug\homeworkLast.pdb
+C:\Users\Majid\Source\Repos\28-05-2020-csharp-class-majidgurbanli9613\homeworkLast\obj\Debug\homeworkLast.csprojAssemblyReference.cache
+C:\Users\Majid\Source\Repos\28-05-2020-csharp-class-majidgurbanli9613\homeworkLast\obj\Debug\homeworkLast.csproj.CoreCompileInputs.cache
+C:\Users\Majid\Source\Repos\28-05-2020-csharp-class-majidgurbanli9613\homeworkLast\obj\Debug\homeworkLast.exe
+C:\Users\Majid\Source\Repos\28-05-2020-csharp-class-majidgurbanli9613\homeworkLast\obj\Debug\homeworkLast.pdb
